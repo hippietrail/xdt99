@@ -408,6 +408,11 @@ enthusiasts may find them useful.
 Please email all feedback and bug reports to the developer at <r@0x01.de>.
 
 
+Related Projects
+----------------
+
+- [disgpl](https://github.com/zeldin/disgpl)
+
 [1]: https://endlos99.github.io/xdt99
 [2]: https://github.com/endlos99/xdt99/releases
 [3]: https://github.com/endlos99/xdt99
